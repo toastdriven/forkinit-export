@@ -10,4 +10,10 @@ off the way we hoped, but we're appreciative nonetheless.
 
 _&mdash; Xian, Matt & Daniel_
 
-[User List](./exported/index.html)
+
+## Downloading
+
+You can grab all the recipes by [clicking here](https://github.com/toastdriven/forkinit-export/archive/refs/heads/main.zip).
+
+Once downloaded, you can extract the `.zip` file, then open the
+`exported/index.html` in the web browser of your choice.
